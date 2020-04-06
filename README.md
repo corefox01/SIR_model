@@ -16,7 +16,8 @@ human to human, and where recovery confers lasting resistance, such as measles, 
       https://www.youtube.com/watch?v=f1a8JYAixXU&t=123s
   - Basics of the Code by warrentse17
       https://github.com/warrentse17/SIRmodel
-  <br><br>Licence: MIT
+  
+<br><br>License: MIT
   
   <br>Basic equations:<br>
   S(t)+I(t)+R(t) = N
