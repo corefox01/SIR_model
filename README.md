@@ -16,9 +16,9 @@ human to human, and where recovery confers lasting resistance, such as measles, 
       https://www.youtube.com/watch?v=f1a8JYAixXU&t=123s
   - Basics of the Code by warrentse17
       https://github.com/warrentse17/SIRmodel
-  Licence: MIT
+  <br>Licence: MIT
   
-  Basic equations:
+  <br>Basic equations:<br>
   S(t)+I(t)+R(t) = N
   S0, I0, R0
   dS/dt = -aSI
@@ -28,4 +28,4 @@ human to human, and where recovery confers lasting resistance, such as measles, 
   b = Recovery Rate
   
   
-  Live code on P5 Web Editor: https://editor.p5js.org/corefox01/sketches/EptduXSAd
+  <br>Live code on P5 Web Editor: https://editor.p5js.org/corefox01/sketches/EptduXSAd
