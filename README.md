@@ -19,14 +19,14 @@ human to human, and where recovery confers lasting resistance, such as measles, 
   
 <br><br>License: MIT
   
-  <br>Basic equations:<br>
-  S(t)+I(t)+R(t) = N
-  S0, I0, R0
-  dS/dt = -aSI
-  dI/dt = aSI - bI
-  dR/dt = rI
-  a = Transmission Rate
-  b = Recovery Rate
+  <br>Basic equations:<br><br>
+  S(t)+I(t)+R(t) = N<br>
+  S0, I0, R0<br>
+  dS/dt = -aSI<br>
+  dI/dt = aSI - bI<br>
+  dR/dt = rI<br>
+  a = Transmission Rate<br>
+  b = Recovery Rate<br>
   
   
   <br>Live code on P5 Web Editor: https://editor.p5js.org/corefox01/sketches/EptduXSAd
