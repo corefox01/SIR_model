@@ -8,7 +8,7 @@
       https://www.youtube.com/watch?v=f1a8JYAixXU&t=123s
   - Basics of the Code by warrentse17
       https://github.com/warrentse17/SIRmodel
-  Licence: MIT
+  License: MIT
   
   Basic equations:
   S(t)+I(t)+R(t) = N
